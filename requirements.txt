@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+opencv-python
+gradio
+matplotlib
+seaborn
+pandas
